@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">جرم نگار</string>
+    <string name="crime_details_label">جزئیات</string>
+    <string name="crime_report_no_suspect">هیچ مضنونی وجود ندارد</string>
+    <string name="crime_report_solved">این پرونده حل شده است</string>
+    <string name="crime_report_subject">گزارش جرم</string>
+    <string name="crime_report_text">فرستادن گزارش جرم</string>
+    <string name="crime_report_unsolved">این پرونده حل نشده است</string>
+    <string name="crime_solved_label">حل شده</string>
+    <string name="crime_suspect_text">انتخاب مضنون</string>
+    <string name="crime_title_hint">برای جرم یک عنوان وارد کنید.</string>
+    <string name="crime_title_label">عنوان</string>
+    <string name="new_crime">ثبت جرم</string>
+    <string name="send_report">"فرستادن گزارش جرم از طریق"</string>
+</resources>
